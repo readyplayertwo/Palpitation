@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 6edfc6e179e73924682217f5bd069d8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Cube
+    100006: Lamp
+    100008: Lamp.001
+    100010: Lamp.002
+    100012: Plane
+    100014: Plane.001
+    100016: Plane.002
+    100018: Plane.003
+    100020: Plane.004
+    100022: Plane.005
+    100024: Plane.006
+    100026: Plane.007
+    100028: Plane.008
+    100030: Plane.009
+    100032: Plane.010
+    100034: Plane.011
+    100036: Sphere
+    100038: Vert
+    100040: Vert.001
+    100042: Vert.002
+    400000: //RootNode
+    400002: Camera
+    400004: Cube
+    400006: Lamp
+    400008: Lamp.001
+    400010: Lamp.002
+    400012: Plane
+    400014: Plane.001
+    400016: Plane.002
+    400018: Plane.003
+    400020: Plane.004
+    400022: Plane.005
+    400024: Plane.006
+    400026: Plane.007
+    400028: Plane.008
+    400030: Plane.009
+    400032: Plane.010
+    400034: Plane.011
+    400036: Sphere
+    400038: Vert
+    400040: Vert.001
+    400042: Vert.002
+    2000000: Camera
+    2100000: Light
+    2100002: Light Black
+    2100004: Frame
+    2100006: Picture 4
+    2100008: Paper
+    2100010: Picture 5
+    2100012: Picture 6
+    2100014: Picture 3
+    2100016: Picture 2
+    2100018: Material.002
+    2100020: Material.001
+    2100022: Shade
+    2100024: Tabletop
+    2100026: Table Legs
+    2100028: Pillow
+    2100030: Black Bed
+    2100032: Blanket
+    2100034: Sheets
+    2100036: Doorhandle
+    2100038: Door
+    2100040: White Door
+    2100042: Walls
+    2100044: Lining
+    2100046: Ceiling
+    2100048: Floor
+    2100050: Window
+    2100052: Picture
+    2100054: No Name
+    2300000: Cube
+    2300002: Plane
+    2300004: Plane.001
+    2300006: Plane.002
+    2300008: Plane.003
+    2300010: Plane.004
+    2300012: Plane.005
+    2300014: Plane.006
+    2300016: Plane.007
+    2300018: Plane.008
+    2300020: Plane.009
+    2300022: Plane.010
+    2300024: Plane.011
+    2300026: Sphere
+    2300028: Vert
+    2300030: Vert.001
+    2300032: Vert.002
+    3300000: Cube
+    3300002: Plane
+    3300004: Plane.001
+    3300006: Plane.002
+    3300008: Plane.003
+    3300010: Plane.004
+    3300012: Plane.005
+    3300014: Plane.006
+    3300016: Plane.007
+    3300018: Plane.008
+    3300020: Plane.009
+    3300022: Plane.010
+    3300024: Plane.011
+    3300026: Sphere
+    3300028: Vert
+    3300030: Vert.001
+    3300032: Vert.002
+    4300000: Sphere
+    4300002: Plane.010
+    4300004: Plane.009
+    4300006: Plane.008
+    4300008: Plane.007
+    4300010: Plane.006
+    4300012: Plane.004
+    4300014: Vert.002
+    4300016: Vert.001
+    4300018: Plane.001
+    4300020: Plane
+    4300022: Cube
+    4300024: Vert
+    4300026: Plane.002
+    4300028: Plane.003
+    4300030: Plane.005
+    4300032: Plane.011
+    10800000: Lamp
+    10800002: Lamp.001
+    10800004: Lamp.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
